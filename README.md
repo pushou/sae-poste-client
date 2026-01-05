@@ -6,7 +6,11 @@ Il vous est demandé d'étudier les solutions suivantes:
 - Couple "WDS + MDT" pour installer Windows 11
 - Solution pré-packagée FOG
 - iventoy
-- wapt pour la gestion des packages sous windows 
-A la fin il vous est demandé de rédiger un tableau synthétique et comparatif des solutions
+- wapt pour la gestion des packages sous windows
+- Installation d'un serveur GLPI et deploiement des agents automatisés via wapt.
+  
+A la fin il vous est demandé de rédiger un tableau synthétique et comparatif des solutions.
+Vous détaillerez aussi les protocoles utilisés.
+
 Afin de travailler dans de bonnes conditions vous vous isolerez sur un LAN dédiée et à l'aide de machines virtuelles.
 Vous pouvez accéder aux images ISO windows sur https://azureforeducation.microsoft.com/devtools via votre compte umontpellier
